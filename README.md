@@ -34,7 +34,45 @@ See instructions. Delete this line and place a list of your User Stories here, g
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
+The following UML Activity Diagrams show how presenters and students interact
+with the existing Slide Machine workflow and our proposed improvements. Each
+diagram includes both successful and unsuccessful paths.
+
+### Presenter
+
+#### Clear Pre-Lecture Instructions
+
+**User story:** As a presenter, I want clear instructions before I begin
+lecturing so I can plan more effectively and predict what my slides will look
+like.
+
+![Activity diagram showing the presenter reviewing pre-lecture instructions and selecting a slide-generation mode](images/activity-diagrams/presenter-prelecture-instructions.png)
+
+#### Start a New Slide Without Speaking
+
+**User story:** As a presenter lecturing in class, I want to move to a new slide
+without saying a command out loud, so that my class is not distracted and my
+lecture keeps its flow.
+
+![Activity diagram showing the presenter using the spacebar to start a new slide](images/activity-diagrams/presenter-spacebar-new-slide.png)
+
+### Student
+
+#### Jump from an Agenda Item to Its Section
+
+**User story:** As a student reviewing a deck, I want each agenda item to jump
+to its matching slide, so that I can find the section I need without starting
+from the title slide.
+
+![Activity diagram showing a student selecting an agenda item and navigating to its matching slide](images/activity-diagrams/student-agenda-navigation.png)
+
+#### Open the Complete Lecture Explanation
+
+**User story:** As a student, I want explanations on the slides to keep their
+full meaning instead of being shortened to a few words, so that I can learn
+from them without the original lecture.
+
+![Activity diagram showing a student opening and reviewing the complete lecture explanation](images/activity-diagrams/student-full-explanation.png)
 
 ## Wireframes
 
