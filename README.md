@@ -18,7 +18,22 @@ See instructions. Delete this line and replace with a short statement of what yo
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations. Note which type of user each stakeholder represents. You may use pseudonyms or partial names to maintain their privacy, but you must privately share their full names and contact information as part of your submission of this exercise
+Stakeholder 1: Raviha Sheikh - Pre-med Student
+Goals/Needs:
+- Not engaging material when looking at slides
+- Would rather speak then create slides for presentations
+- Needs a quick way to get accurate information for slides
+- Wants her notes to be converted to slides with related images
+
+Frustrations:
+- When using the Slide Machine for a gene presentation it could not 
+explain data from the graph that it had inserted at her request
+- When creating a new slide it skipped a blank slide it created and had 
+her information put on to a different slide
+- The speak to text feature when needing to edit a slide doesn’t work
+- Wanted to add links to different research papers but the slide machine wouldn’t put in links
+
+Stakeholder 2: 
 
 ## Product Vision Statement
 
