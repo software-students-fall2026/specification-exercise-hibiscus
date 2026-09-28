@@ -12,6 +12,10 @@ Lefei Ke (https://github.com/LefeiKe)
 
 See instructions. Delete this line and replace with your team's findings from using the live app at https://theslidemachine.com — at least 10 specific observations, each labeled as a strength, a weakness, or a gap, and drawn from more than one team member's use of the app.
 
+1. **Weakness — Missing content after pauses in speech:** When delivering a lecture, I noticed that The Slide Machine sometimes failed to capture information after I paused between sentences to think about what to say next. Even though I continued speaking and provided meaningful information afterward, some of that content was not included in the generated slides. This is particularly problematic during live lectures because instructors cannot always speak continuously without pausing to organize their thoughts. I expected the application to preserve all meaningful information communicated after a pause.
+
+2. **Weakness — Inefficient use of slide space:** When generating slides from my spoken lecture, I noticed that the application frequently placed text in only half or less of the available slide space, leaving large empty areas on the page. This occurred repeatedly throughout the generated presentation rather than on only one slide. Although the information remained readable, the layout appeared visually unbalanced and made the slides look less polished.
+
 ## Prior Art & Originality
 
 See instructions. Delete this line and replace with a short statement of what your team checked (the project's Future Work and Open Questions, its roadmap, and its open issues and pull requests) and which parts of your proposal are original — new work not already specified, scheduled, or proposed by someone else.
