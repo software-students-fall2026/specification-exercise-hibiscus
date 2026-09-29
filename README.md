@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 Yasmine Ksiyer (https://github.com/yasminek27)
 Lefei Ke (https://github.com/LefeiKe)
 Sofia Matari (https://github.com/sofia-matari)
-Yazid Alhamed (https://github.com/Dizay-53])
+Yazid Alhamed (https://github.com/Dizay-53)
 
 ## Review of the Current Application
 
@@ -60,8 +60,50 @@ Stakeholder 2:
 See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
 
 ## User Requirements
+### Presenter (instructor / author)
 
-See instructions. Delete this line and place a list of your User Stories here, grouped by type of user. These should describe functionality that is new or changed, not functionality the app already has.
+1. As a presenter, I want clear instructions before I begin lecturing, so that I can plan more effectively and predict what my slides will look like.
+2. As a presenter, I want clearer ways to navigate the application, so that I can better predict what will be on my slides.
+3. As a presenter, I want clearer explanations for "Refine the spoken transcript," so that I can understand what changes the AI will make.
+4. As a presenter, I want to know how the slides are generated, so that I can predict the slide output during my lecture.
+5. As a presenter, I want the slides to cover explanations rather than the code I am discussing, so that the information on the slides is useful for review.
+6. As a presenter, I want more available options while giving a presentation, so that I can have better control over the slide output.
+7. As a presenter, I want to know what The Slide Machine can and cannot do by voice, so that I don't waste time asking for things like links or images that may not work.
+8. As a presenter lecturing in class, I want to move to a new slide without saying a command out loud, so that my class is not distracted and my lecture keeps its flow.
+9. As a presenter, I want to choose whether the AI decides when to start a new slide or I do, so that my slides are split the way I expect.
+10. As a presenter, I want to see every voice command and keyboard shortcut before I start, so that I know how to control my lecture.
+11. As a presenter, I want to open detailed help and examples if the setup instructions confuse me, so that I can start my lecture with confidence.
+12. As a presenter, I want to be told clearly if my microphone, connection, or usage limit stops my lecture from starting, so that I can fix it and try again.
+13. As a presenter, I want to always see which mode I'm in and a reminder of the shortcuts while I lecture, so that I don't have to guess how to move on.
+14. As a presenter, I want the spacebar to type a normal space when I'm editing text, so that I don't create a new slide by accident.
+15. As a presenter, I want to be reminded to start or resume my lecture if I press the new-slide key while it's paused, so that I understand why nothing happened.
+16. As a presenter, I want to be told if a new slide couldn't be created while keeping my current slide, so that I can try again without losing my content.
+17. As a presenter, I want to undo a new slide I created by accident, so that one stray key press doesn't split my content.
+18. As a presenter who pauses to organize my thoughts, I want everything I say after a pause captured in the slides, so that none of my explanation is dropped.
+19. As a presenter, I want to know whether a low refinement level only fixes grammar or also changes my ideas, so that I feel comfortable letting the AI refine my narration.
+20. As a presenter, I want "Regenerate from spoken audio" to use my edited transcript, so that I can correct a slide without my edit being reverted.
+21. As a presenter, I want generated text to fill the slide layout evenly, so that my slides look balanced and polished.
+22. As a presenter, I want my full spoken explanation saved with each slide, so that students can read or listen to it later.
+23. As a presenter, I want to edit the full explanation saved with a slide, so that students see a correct version of what I meant.
+24. As a presenter, I want to hide or delete the full explanation on a slide, so that I control what students can see after the lecture.
+
+### Student
+
+1. As a student, I want the slides to have enough detail, so that I can develop understanding when reviewing them.
+2. As a student, I want slides to be concise but contain valuable information, so that I can review more than just a summary.
+3. As a student, I want the slides to update quickly, so that they are helpful during the lecture as well as after.
+4. As a student, I want the slide space to be used effectively, so that I do not have to sort through hundreds of slides.
+5. As a student, I want explanations on the slides to keep their full meaning instead of being shortened to a few words, so that I can learn from them without the original lecture.
+6. As a student reviewing a deck, I want each agenda item to jump to its matching slide, so that I can find the section I need without starting from the title slide.
+7. As a student, I want a "Show full explanation" option beside each slide, so that I can read everything the instructor said about it without losing my place.
+8. As a student, I want to be told when a full explanation isn't available for a slide, so that I know it's missing and not broken.
+9. As a student, I want to listen to the full explanation for a slide, so that I can hear it the way the instructor said it.
+10. As a student who isn't signed in, I want to be brought back to the same slide after I sign in to listen, so that I don't lose my place.
+11. As a student who isn't signed in, I want the same sign-in message every time I use an account-only feature, so that I know it's one rule and not a bug.
+12. As a student reviewing technical content like code, formulas, or data, I want the explanation shown next to it on the same slide, so that I understand what it means.
+13. As a student, I want the section I jumped to highlighted in the agenda, so that I know where I am in the lecture.
+14. As a student, I want to be told when an agenda item has no matching slide and stay where I am, so that I'm not sent back to the title slide.
+15. As a student, I want a clear message when I can't open a shared deck, so that I know whether the link is broken or I don't have access.
 
 ## Activity Diagrams
 
