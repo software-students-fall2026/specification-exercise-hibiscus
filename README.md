@@ -8,6 +8,7 @@ Yasmine Ksiyer (https://github.com/yasminek27)
 Lefei Ke (https://github.com/LefeiKe)
 Sofia Matari (https://github.com/sofia-matari)
 Yazid Alhamed (https://github.com/Dizay-53)
+Angelina Zhu (https://github.com/ange285)
 
 ## Review of the Current Application
 
@@ -68,7 +69,7 @@ Stakeholder 2: Omar K. - Elementary School Teacher
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+Our vision is to make Slide Machine's presentation feature and instructions more clear and predictable, so that users can easily control slide generation and preserve explanatory detail when discussing technical subjects.
 
 ## User Requirements
 ### Presenter (instructor / author)
