@@ -38,14 +38,14 @@ We reviewed the Slide Machine’s Future Work and Open Questions, and its roadma
 
 ## Stakeholders
 
-Stakeholder 1: Raviha Sheikh - Pre-med Student
-Goals/Needs:
+Stakeholder 1: Raviha S. - Pre-med Student
+**Goals/Needs:**
 - Not engaging material when looking at slides
 - Would rather speak then create slides for presentations
 - Needs a quick way to get accurate information for slides
 - Wants her notes to be converted to slides with related images
 
-Frustrations:
+**Frustrations:**
 - When using the Slide Machine for a gene presentation it could not 
 explain data from the graph that it had inserted at her request
 - When creating a new slide it skipped a blank slide it created and had 
@@ -53,7 +53,18 @@ her information put on to a different slide
 - The speak to text feature when needing to edit a slide doesn’t work
 - Wanted to add links to different research papers but the slide machine wouldn’t put in links
 
-Stakeholder 2: 
+Stakeholder 2: Omar K. - Elementary School Teacher
+**Goals/Needs:**
+- Would like to spend less time designing slides for class
+- Needs the slides to be easy to follow and engaging for their students
+- Has different kinds of learners (visual, auditory, kinesthetic) and needs slides to work for different learning styles
+- Would like an activity related to the material taught
+
+**Frustrations:**
+- There isn’t enough design control
+- There isn’t enough exit ticket control in terms of a difficulty level
+- It takes too long to make slides from scratch
+- Figuring out how to test students is difficult for each class
 
 ## Product Vision Statement
 
