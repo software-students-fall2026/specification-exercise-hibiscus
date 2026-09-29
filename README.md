@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 Yasmine Ksiyer (https://github.com/yasminek27)
 Lefei Ke (https://github.com/LefeiKe)
 Sofia Matari (https://github.com/sofia-matari)
-Yazid Alhamed (https://github.com/[Dizay-53])
+Yazid Alhamed (https://github.com/Dizay-53])
 
 ## Review of the Current Application
 
