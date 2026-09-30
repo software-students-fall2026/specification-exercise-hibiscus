@@ -39,7 +39,8 @@ We reviewed the Slide Machine’s Future Work and Open Questions, and its roadma
 
 ## Stakeholders
 
-Stakeholder 1: Raviha S. - Pre-med Student
+Stakeholder 1: **Raviha S. - Pre-med Student**
+
 **Goals/Needs:**
 - Not engaging material when looking at slides
 - Would rather speak then create slides for presentations
@@ -54,7 +55,8 @@ her information put on to a different slide
 - The speak to text feature when needing to edit a slide doesn’t work
 - Wanted to add links to different research papers but the slide machine wouldn’t put in links
 
-Stakeholder 2: Omar K. - Elementary School Teacher
+Stakeholder 2: **Omar K. - Elementary School Teacher**
+
 **Goals/Needs:**
 - Would like to spend less time designing slides for class
 - Needs the slides to be easy to follow and engaging for their students
