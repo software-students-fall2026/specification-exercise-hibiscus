@@ -4,11 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Yasmine Ksiyer (https://github.com/yasminek27)
-Lefei Ke (https://github.com/LefeiKe)
-Sofia Matari (https://github.com/sofia-matari)
-Yazid Alhamed (https://github.com/Dizay-53)
-Angelina Zhu (https://github.com/ange285)
+- Yasmine Ksiyer (https://github.com/yasminek27)
+- Lefei Ke (https://github.com/LefeiKe)
+- Sofia Matari (https://github.com/sofia-matari)
+- Yazid Alhamed (https://github.com/Dizay-53)
+- Angelina Zhu (https://github.com/ange285)
 
 ## Review of the Current Application
 
@@ -165,7 +165,7 @@ See instructions. Delete this line and place your wireframe diagrams here, cover
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Prototype: https://www.figma.com/design/FnZmhSYjKNFPH492KDH21W/Project-1-Wireframe?node-id=3-3&t=WSUsPa3NAGjf54zx-1
 
 ## Stakeholder Demo
 
