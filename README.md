@@ -69,6 +69,39 @@ Stakeholder 2: **Omar K. - Elementary School Teacher**
 - It takes too long to make slides from scratch
 - Figuring out how to test students is difficult for each class
 
+Stakeholder 3: **Valeria C. - CS Student**
+
+**Goals/Needs:**
+- Needs a quick way to make slides for presentations
+- Presentations are quick and to the point
+- Needs to not read off a slide for most presentations
+- Wants more resources to make slides 
+
+**Frustrations:**
+- Having to go to a google slides template or design site to make slides is too much especially since most 
+need a premium subscription
+- It is hard to try and articulate words onto a slide compared to thinking or speaking them out loud
+- Again she also said it takes too long to make slides from scratch
+- Trying to find all the resources for images and links takes too much time
+
+
+Stakeholder 4: **Amina K. - High School Teacher**               
+
+**Goals/Needs:**
+- Needs a way to test students that isn't high stakes      
+- Wants to make sure that all of her students understands the material
+- Slides have to have key points for students to memorize
+- Lesson has to cover multiple sub topics but she has to create them to flow so that students don't have 
+difficulty following or making connections
+
+**Frustrations:**
+- It is tough to keep high school students engaged on a lecture 
+- Also said that she doesn't want to spend more time making slides then she would spend making the lesson 
+plan
+- Knowing what exactly is important enough to put on the slide can sometimes be a lot of work
+- There is not a good way to tell how much her students are actually understanding the material especially 
+when no one asks questions during class
+
 ## Product Vision Statement
 
 Our vision is to make Slide Machine's presentation feature and instructions more clear and predictable, so that users can easily control slide generation and preserve explanatory detail when discussing technical subjects.
@@ -191,8 +224,8 @@ Prototype: https://www.figma.com/proto/FnZmhSYjKNFPH492KDH21W/Project-1-Wirefram
 
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+Link: https://theslidemachine.com/d/untitled-c4cc0222
 
 ## Exit Ticket
 
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+Link: https://docs.google.com/forms/d/e/1FAIpQLSc_dY9CmiYmU87IAO9VxVZewH7JZ9gRcLIDNXZTC5hsjmIk6g/viewform
