@@ -200,23 +200,56 @@ from them without the original lecture.
 
 ## Wireframes
 
-Link: https://www.figma.com/design/FnZmhSYjKNFPH492KDH21W/Project-1-Wireframe?node-id=0-1&t=WSUsPa3NAGjf54zx-1
-
-**App Screen:**
+[Wireframes](https://www.figma.com/design/FnZmhSYjKNFPH492KDH21W/Project-1-Wireframe?node-id=0-1&t=WSUsPa3NAGjf54zx-1)
 
 **Log In Screen**
 
+![Log In Screen](images/LogInScreen.png)
+
+**App Screen**
+
+![App Screen](images/AppScreen.png)
+
 **Home Screen**
 
-**New Lecture Screen**
+![Home Screen](images/HomeScreen.png)
 
-****
+**New Lecture**
 
-****
+![New Lecture](images/NewLecture.png)
 
-****
+**Create a Lecture**
 
-****
+![Create a Lecture](images/CreateaLecture.png)
+
+**Info Page**
+
+![Info Page](images/InfoPage.png)
+
+**Lecture Settings**
+
+![Lecture Settings](images/LectureSettings.png)
+
+**Keyboard Shortcuts OFF**
+
+![Keyboard Shortcuts OFF](images/KeyboardShortcutsOFF.png)
+
+**Keyboard Selection ON**
+
+![Keyboard Selection ON](images/KeyboardSelectionON.png)
+
+**Keyboard Shortcut Menu**
+
+![Keyboard Shortcut Menu](images/KeyboardShortcutMenu.png)
+
+**Refine with AI**
+
+![Refine with AI](images/RefinewithAI.png)
+
+**AI Clarification Page**
+
+![AI Clarification Page](images/AIClarificationPage.png)
+
 
 ## Clickable Prototype
 
@@ -224,8 +257,8 @@ Link: https://www.figma.com/design/FnZmhSYjKNFPH492KDH21W/Project-1-Wireframe?no
 
 ## Stakeholder Demo
 
-Link: https://theslidemachine.com/d/untitled-c4cc0222
+[Stakeholder Demo](https://theslidemachine.com/d/untitled-c4cc0222)
 
 ## Exit Ticket
 
-Link: https://docs.google.com/forms/d/e/1FAIpQLSc_dY9CmiYmU87IAO9VxVZewH7JZ9gRcLIDNXZTC5hsjmIk6g/viewform
+[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSc_dY9CmiYmU87IAO9VxVZewH7JZ9gRcLIDNXZTC5hsjmIk6g/viewform)
