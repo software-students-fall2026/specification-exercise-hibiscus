@@ -167,11 +167,27 @@ from them without the original lecture.
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+Link: https://www.figma.com/design/FnZmhSYjKNFPH492KDH21W/Project-1-Wireframe?node-id=0-1&t=WSUsPa3NAGjf54zx-1
+
+**App Screen:**
+
+**Log In Screen**
+
+**Home Screen**
+
+**New Lecture Screen**
+
+****
+
+****
+
+****
+
+****
 
 ## Clickable Prototype
 
-Prototype: https://www.figma.com/design/FnZmhSYjKNFPH492KDH21W/Project-1-Wireframe?node-id=3-3&t=WSUsPa3NAGjf54zx-1
+Prototype: https://www.figma.com/proto/FnZmhSYjKNFPH492KDH21W/Project-1-Wireframe?node-id=3-7&t=WSUsPa3NAGjf54zx-1
 
 ## Stakeholder Demo
 
