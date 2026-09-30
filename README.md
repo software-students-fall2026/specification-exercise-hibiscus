@@ -143,15 +143,19 @@ lecture keeps its flow.
 
 ![Activity diagram showing the presenter using the spacebar to start a new slide](images/activity-diagrams/presenter-spacebar-new-slide.png)
 
+#### Understand the AI Transcript-Refinement Scale
+
+**User story:** As a presenter, I want to know whether a low refinement level only fixes grammar or also changes my ideas, so that I feel comfortable letting the AI refine my narration.
+
+![Activity diagram showing how a presenter reviews and selects an AI transcript-refinement level](images/activity-diagrams/presenter-refinement-transparency.png)
+
 ### Student
 
-#### Jump from an Agenda Item to Its Section
+#### View Technical Explanations Beside Technical Content
 
-**User story:** As a student reviewing a deck, I want each agenda item to jump
-to its matching slide, so that I can find the section I need without starting
-from the title slide.
+**User story:** As a student reviewing technical content like code, formulas, or data, I want the explanation shown next to it on the same slide, so that I understand what it means.
 
-![Activity diagram showing a student selecting an agenda item and navigating to its matching slide](images/activity-diagrams/student-agenda-navigation.png)
+![Activity diagram showing technical content and its explanation displayed together](images/activity-diagrams/student-technical-explanation.png)
 
 #### Open the Complete Lecture Explanation
 
